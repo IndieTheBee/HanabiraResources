@@ -4,7 +4,15 @@
   	"layer0": "minecraft:item/glistering_melon_slice"
   },
   "overrides": [
-	{"predicate": {"custom_model_data": 1}, "model": "custom/1_donut"}
+	{"predicate": {"custom_model_data": 1}, "model": "custom/1_donut"},
+  {"predicate": {"custom_model_data": 3}, "model": "custom/3_coffeecupexport"},
+  {"predicate": {"custom_model_data": 6}, "model": "custom/6_schoolbag"},
+  {"predicate": {"custom_model_data": 8}, "model": "custom/8_ashtray"},
+  {"predicate": {"custom_model_data": 10}, "model": "custom/10_cigarette"},
+  {"predicate": {"custom_model_data": 11}, "model": "custom/11_chalkboard"},
+  {"predicate": {"custom_model_data": 16}, "model": "custom/16_plate"},
+  {"predicate": {"custom_model_data": 19}, "model": "custom/19_pan"}
+
  
  
   ]
