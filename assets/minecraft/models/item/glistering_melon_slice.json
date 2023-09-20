@@ -5,7 +5,10 @@
   },
   "overrides": [
 	{"predicate": {"custom_model_data": 1}, "model": "custom/1_donut"},
+  {"predicate": {"custom_model_data": 2}, "model": "custom/2_chopsticks"},
   {"predicate": {"custom_model_data": 3}, "model": "custom/3_coffeecupexport"},
+  {"predicate": {"custom_model_data": 4}, "model": "custom/4_pot"},
+  {"predicate": {"custom_model_data": 5}, "model": "custom/5_spatula"},
   {"predicate": {"custom_model_data": 6}, "model": "custom/6_schoolbag"},
   {"predicate": {"custom_model_data": 8}, "model": "custom/8_ashtray"},
   {"predicate": {"custom_model_data": 10}, "model": "custom/10_cigarette"},
